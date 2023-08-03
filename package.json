@@ -1,0 +1,16 @@
+{
+  "name": "miniapp-blank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dingtalk-design-miniapp": "^1.9.7",
+    "echarts": "^4.7.0",
+    "wxmp-rsa": "^2.1.0"
+  }
+}

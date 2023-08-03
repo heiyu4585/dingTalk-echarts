@@ -1,0 +1,4 @@
+<view>
+  New Component
+ <ec-canvas id="mychart-dom-pie" canvas-id="{{ canvasId }}" onInit="initChart" ></ec-canvas>
+</view>
